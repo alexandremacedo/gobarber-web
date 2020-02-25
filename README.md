@@ -23,4 +23,4 @@ This project was developed with the following technologies:
 - Documentação da API - EM BREVE
 
 ## License
-The shoes-store-redux is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The gobarber-web is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
