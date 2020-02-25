@@ -19,8 +19,5 @@ This project was developed with the following technologies:
 -  [Reactotron](https://infinite.red/reactotron)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
-## Consulte a documentação
-- Documentação da API - EM BREVE
-
 ## License
 The gobarber-web is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
